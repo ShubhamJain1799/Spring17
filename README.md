@@ -1,2 +1,2 @@
 # Spring17
-This the Spring Air Tribe Project
+This is the Spring Air Tribe Project
